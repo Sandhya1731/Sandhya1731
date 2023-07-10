@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" height="410px" width= "410px" alt="GIF" src="[https://github.com/Sandhya1731/Sandhya1731/main/working.gif](https://github.com/Sandhya1731/Sandhya1731/blob/main/working.gif)" />
+<img align="right" height="410px" width= "410px" alt="GIF" src="https://github.com/Sandhya1731/Sandhya1731/main/working.gif" />
 **Talking about Education/Skills:**
 
 🎓 Graduating in 2024 from National Institute Of Technology, Kurukshetra
