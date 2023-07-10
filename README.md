@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🎓 Graduating in 2024 from National Institute Of Technology, Kurukshetra
 
 - Web development
-- C++C
+- C++, C
 - Html, CSS, Java Script, JQuery, BootStrap, React
 - DBMS, MySQL
   
